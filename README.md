@@ -1,4 +1,4 @@
-# mole-hero-official-server-guide
+# 摩尔勇士官服指南
 
 ver 2020.4.11
 
@@ -23,6 +23,8 @@ ver 2020.4.11
 关服后以前的数据已全部清除，现在登录将重新注册用户
 
 游戏**剧情**无后续更新，游戏**活动**将不定期举行
+
+本指南最新版地址：<https://github.com/NachtgeistW/mole-hero-official-server-guide>
 
 欢迎回到千年以前的格历尔大陆
 
